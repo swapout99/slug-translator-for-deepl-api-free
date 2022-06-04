@@ -1,9 +1,0 @@
-/assets
-/.git
-/.github
-/node_modules
-
-.commit_template
-.distignore
-.gitignore
-README.md
