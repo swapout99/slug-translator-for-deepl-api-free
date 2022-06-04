@@ -4,7 +4,7 @@ if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 	die;
 }
 
-$option_name = 'simple-slug-translate';
+$option_name = 'slug-translator';
 
 delete_option( $option_name );
 
