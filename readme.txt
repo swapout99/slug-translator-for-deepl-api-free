@@ -22,7 +22,7 @@ In order to use this translator, you need to subscribe DeepL API Free plan in ad
 
 1. Upload this plugin .zip file from "Dashboard > Plugins > Add New > Upload Plugin"
 1. Activate the plugin from "Dashboard > Plugins > Installed Plugins"
-1. Open plugin option page from "Dashboard"->"Settings"->"Slug Translator for DeepL API Free"
+1. Open plugin option page from "Dashboard"->"Settings"->"Slug Translator"
 1. "Authentication key": Copy your authentication key from the DeepL account page (https://www.deepl.com/ja/account/summary) then "Validate".
 1. "Source language": Choose your native language from this pull-down.
 1. "Sample text ": Type some text in your native langauge here then "Translate". You can see how the text will be translated in English
